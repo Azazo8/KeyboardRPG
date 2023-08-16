@@ -1,5 +1,0 @@
-﻿  Game.cpp
-  main.cpp
-C:\Users\m-zab\OneDrive\Pulpit\Programowanie\C++\KeyboardRPG\KeyboardRPG\main.cpp(7,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  Generowanie kodu...
-  KeyboardRPG.vcxproj -> C:\Users\m-zab\OneDrive\Pulpit\Programowanie\C++\KeyboardRPG\x64\Debug\KeyboardRPG.exe
